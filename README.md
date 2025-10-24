@@ -1,6 +1,6 @@
 # Kasra Mossayebi
 
-I am a student at the the University of Toronto pursuing mathematics. 
+I am an undergraduate student at the the University of Toronto pursuing mathematics.
 
 # Past Publications
 
